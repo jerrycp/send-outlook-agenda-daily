@@ -24,6 +24,6 @@ Many thanks to their contribution.
 
 # License
 
-This work is a combination of code from various source including some modification from myself.
+This work is a combination of code snippets from various source including some modification from myself.
 
 I am not a lawyer, I believe these mean the code shall not be used as part of a commercial product.
