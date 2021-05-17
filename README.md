@@ -8,5 +8,12 @@ Quick Start:
 2. Run the script.
 
 # Source
-This script is originally taken and then modified from :
+This script is originally taken and then modified from various publicly available source including :
+
+Send agenda :
 https://www.crestwood.com/2018/08/17/automating-outlook-calendar-to-send-daily-agenda/
+
+Send/Receive email immediately :
+https://stackoverflow.com/a/12303092
+
+Many thanks to their contribution.
