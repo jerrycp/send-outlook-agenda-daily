@@ -12,7 +12,7 @@ Quick Start:
 In your office laptop, set this script to run on a daily basis, to receive agenda for today and tomorrow.
 
 # Source
-This script is originally taken and then modified from various publicly available source including :
+This script is originally taken and then modified from various source including :
 
 Send agenda :
 https://www.crestwood.com/2018/08/17/automating-outlook-calendar-to-send-daily-agenda/
